@@ -4,3 +4,14 @@
     <h2 class="subtitle">Welcome to my site</h2>
   </div>
 </header>
+<style>
+  header{
+    background:rgb(1, 185, 136);
+  }
+  .title{
+    color: rgb(4, 4, 82);
+  }
+  .subtitle{
+    color: rgb(0, 0, 0)
+  }
+</style>
