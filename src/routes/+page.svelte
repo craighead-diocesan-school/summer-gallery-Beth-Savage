@@ -1,5 +1,6 @@
 <script>
   import Header from '$lib/Header.svelte'
+  import Footer from '$lib/Footer.svelte'
 </script>
 
 <Header />
@@ -9,7 +10,5 @@
 
   <p>Welcome to coding with SvelteKit, a modern JavaScript framework that makes it easy to code great apps.</p>
 </main>
+<Footer />
 
-<footer>
-  <p>&copy; Craighead Diocesan School 2024</p>
-</footer>
