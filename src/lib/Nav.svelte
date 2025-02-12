@@ -8,6 +8,7 @@
         background: rgb(1, 133, 98);
         text-decoration: none;
         padding: 20px;
+        margin-bottom: 5px;
     }
     a{
         text-decoration: none;
@@ -15,6 +16,6 @@
         margin-left:150px ;
     }
     nav a:hover{
-        color:blue; 
+        color:rgb(173, 255, 192); 
     }
   </style>

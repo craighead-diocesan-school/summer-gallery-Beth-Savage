@@ -3,7 +3,10 @@
   </footer>
   <style>
     footer{
-      background:rgb(1, 185, 136);
-      color: rgb(4, 4, 82);
+      background: rgb(1, 133, 98);
+      color: white;
+      text-align: center;
+      padding: 10px;
+      margin-top: 5px;
     }
   </style>
