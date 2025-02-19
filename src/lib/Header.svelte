@@ -1,7 +1,11 @@
+<script>
+    export let title = 'Welcome'
+    export let subtitle = 'Welcome to my site'
+</script>
 <header class="hero is-success">
   <div class="hero-body">
-    <h1 class="title">Welcome</h1>
-    <h2 class="subtitle">Welcome to my site</h2>
+    <h1 class="title">{title} </h1>
+    <h2 class="subtitle">{subtitle}</h2>
   </div>
 </header>
 
