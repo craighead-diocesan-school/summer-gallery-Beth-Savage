@@ -6,7 +6,7 @@
   
         <div class="media-left">
           <figure class="image is-48x48">
-            <img src= "Me.jpg" />
+            <img src= "Me.jpg" alt ="Beth's Face" />
           </figure>
         </div>
   
