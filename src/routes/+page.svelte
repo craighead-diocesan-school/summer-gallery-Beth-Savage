@@ -10,10 +10,10 @@
 <Nav />
 
 <main>
-  <h2>SvelteKit</h2>
+  <h2>About Me</h2>
 
-  <p>Welcome to coding with SvelteKit, a modern JavaScript framework that makes it easy to code great apps.</p>
+  <div class="column is-four-fifths"><p>Welcome to my site. My name is Beth Savage and I take level 2 digi. This is my site about me</p></div>
+  <div class="column is-one-fifth"><Image src= "Beth-with-Clara.jpg"/></div>
 </main>
 <Card />
 <Footer />
-

@@ -9,7 +9,7 @@
     <figcaption> {caption} </figcaption>
 </figure>
 <style>
-        img {
-      width: 60%;
-    }
+    img {
+  width: 60%;
+}
 </style>
