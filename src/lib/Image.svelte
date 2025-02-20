@@ -8,3 +8,8 @@
     <img src="{src}" alt="{alt}">
     <figcaption> {caption} </figcaption>
 </figure>
+<style>
+        img {
+      width: 60%;
+    }
+</style>
