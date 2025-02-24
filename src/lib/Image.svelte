@@ -12,4 +12,7 @@
     img {
   width: 60%;
 }
+figcaption{
+    font-size: small;
+}
 </style>

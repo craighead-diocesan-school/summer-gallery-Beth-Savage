@@ -11,7 +11,6 @@
       background: rgb(1, 133, 98);
       color: white;
       text-align: center;
-      padding: 10px;
-      margin-top: 5px;
+      padding: 1%;
     }
   </style>
